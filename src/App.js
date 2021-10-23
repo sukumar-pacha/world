@@ -6,6 +6,8 @@ export default class App extends Component {
       <center>
       <div>
         <h1>sukumar is the villan</h1>
+        <h1>sukumar is the villan</h1>
+        <h1>sukumar is the villan</h1>
       </div>
       </center>
     )
